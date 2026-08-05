@@ -38,15 +38,6 @@ I am a Software Engineer and Architect specializing in high-performance video in
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rusegal&show_icons=true&theme=radical&hide_border=true" alt="Egor's GitHub Stats" />
-</p>
-
-
----
-
 ### 📫 Let's Connect
 
 Looking for Enterprise video solutions, consulting, or just want to chat about Go and distributed systems? Reach out!
