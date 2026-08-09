@@ -57,7 +57,7 @@
 <!-- Внимание: Чтобы змейка показывала ваши коммиты, вам нужно настроить GitHub Action. Ссылка ниже - это пример, куда она будет загружаться. 
 Подробнее о настройке: https://github.com/Platane/snk -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RUSEGAL/RUSEGAL/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RUSEGAL/RUSEGAL/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RUSEGAL/ruseon-core/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RUSEGAL/ruseon-core/blob/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/RUSEGAL/RUSEGAL/output/github-contribution-grid-snake.svg" />
 </picture>
